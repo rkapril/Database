@@ -1,5 +1,5 @@
 # Database
-## SQL
+## SQL (https://www.w3schools.com/sql/)
 1. Oracle
 2. MySQL
 3. PostgreSQL
