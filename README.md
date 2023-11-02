@@ -7,4 +7,4 @@
 
 ### Advantages
 1. Flexible
-2. Scalabilty
+2. Scalability
