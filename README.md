@@ -4,7 +4,9 @@
 2. MySQL
 3. PostgreSQL
 ## NoSQL
-
+1. MongoDB
+2. Redis
+3. DynamoDB
 ### Advantages
 1. Flexible
 2. Scalability
