@@ -1,4 +1,4 @@
-# database
+# Database
 ## SQL
 1. Oracle
 2. MySQL
