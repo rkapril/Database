@@ -2,7 +2,7 @@
 1. Create
 2. Read
 3. Update
-4. Destroy
+4. Delete
 ## SQL (https://www.w3schools.com/sql/)
 1. Oracle
 2. MySQL
