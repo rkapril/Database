@@ -6,7 +6,7 @@
 ## NoSQL
 1. MongoDB
 2. Redis
-3. DynamoDB (Amazom)
+3. DynamoDB (Amazon)
 ### Advantages
 1. Flexible
 2. Scalability
