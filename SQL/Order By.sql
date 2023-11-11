@@ -1,2 +1,5 @@
 SELECT * FROM users
 ORDER BY id ASC;
+
+SELECT * FROM users
+ORDER BY id DESC;
